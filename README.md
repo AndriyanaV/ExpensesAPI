@@ -21,3 +21,5 @@ Developed in .NET using various NuGet packages to speed up development and ensur
 
 - Clean architecture ensuring maintainability and scalability
 
+- Entity Framework Core – used for database access and object-relational mapping
+
